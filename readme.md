@@ -68,8 +68,6 @@ POST /api/planning-orders
 - `reel-sizes`: List of available reel sizes in centimeters (array of integers, e.g., [180, 185, 190, 195, 200, 205, 210, 215, 220]).
 - `maxItemPerSheet`: Maximum number of items per sheet (float, e.g., 6.0).
 
-### Authentication
-No authentication required for this endpoint.
 
 ### Response
 #### Success Response
